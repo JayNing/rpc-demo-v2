@@ -1,0 +1,9 @@
+com\ning\gupao\RpcService.class
+com\ning\gupao\SpringConfig.class
+com\ning\gupao\HelloServiceImpl.class
+com\ning\gupao\HelloServiceImplV2.class
+com\ning\gupao\JNRpcServer.class
+com\ning\gupao\ProcessHandler.class
+com\ning\gupao\App.class
+com\ning\gupao\RpcProxyServer.class
+com\ning\gupao\UserServiceImpl.class

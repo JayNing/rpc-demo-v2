@@ -1,0 +1,4 @@
+com\ning\gupao\App.class
+com\ning\gupao\IUserService.class
+com\ning\gupao\IHelloService.class
+com\ning\gupao\RpcRequest.class
